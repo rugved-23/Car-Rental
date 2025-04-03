@@ -1,2 +1,3 @@
-# Rental_07-09-24
-In this step-by-step guide, you'll learn how to create a sleek, professional, and fully responsive car rental website from scratch.
+Car Rental
+This project helps you rent a car 
+Made using the concepts of HTML , CSS , JAVASCRIPT
