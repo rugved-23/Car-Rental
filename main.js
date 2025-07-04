@@ -43,15 +43,15 @@ ScrollReveal().reveal(".location__image img", {
 });
 ScrollReveal().reveal(".location__content .section__header", {
   ...scrollRevealOption,
-  delay: 500,
+  delay: 600,
 });
 ScrollReveal().reveal(".location__content p", {
   ...scrollRevealOption,
-  delay: 1000,
+  delay: 2000,
 });
 ScrollReveal().reveal(".location__content .location__btn", {
   ...scrollRevealOption,
-  delay: 1500,
+  delay: 2000,
 });
 
 const selectCards = document.querySelectorAll(".select__card");
