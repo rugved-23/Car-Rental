@@ -43,7 +43,7 @@ ScrollReveal().reveal(".location__image img", {
 });
 ScrollReveal().reveal(".location__content .section__header", {
   ...scrollRevealOption,
-  delay: 600,
+  delay: 500,
 });
 ScrollReveal().reveal(".location__content p", {
   ...scrollRevealOption,
